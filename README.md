@@ -1,37 +1,41 @@
-DOODLE ARMY 2: MINI MILITIA v4.2.8
-PRO PACK UNLOCKED
-This repository contains the classic v4.2.8 version of Mini Militia. This is the last great version before the 5.0 overhaul, featuring the original gameplay mechanics and full Pro Pack features.
+Doodle Army 2: Mini Militia (v4.2.8) - Pro Pack Unlocked
+This repository provides access to Mini Militia v4.2.8, widely considered one of the best and most stable versions of the game. This version includes the Pro Pack unlocked, allowing you to use dual-wielding, extra avatar customizations, and all in-game items without additional purchases.
 
-* FEATURES
-Full Pro Pack: All premium items and dual-wielding enabled.
+🚀 Features
+Pro Pack Unlocked: Full access to all premium features.
 
-Classic UI: The original 4.x menu and lobby system.
+Dual Wielding: Carry two weapons simultaneously (e.g., Uzi + Magnum).
 
-Avatar Gear: Access to all skins, hats, and outfits.
+Classic Gameplay: Experience the original mechanics and maps before the major 5.x updates.
 
-No Bloat: Faster loading times and traditional matchmaking.
+Avatar Customization: All premium skins and accessories available.
 
-Stability: Highly optimized for older and newer Android devices.
+Online & Local Play: Fully compatible with multiplayer modes.
 
-* INSTALLATION
-Download the APK file from this repository.
+📦 Installation
+Go to the Releases section.
 
-Go to your phone Settings > Security.
+Download the .apk file from the latest release.
 
-Enable "Unknown Sources" to allow APK installation.
+Enable "Install from Unknown Sources" in your Android settings.
 
-Open the downloaded file and click Install.
+Install the APK and enjoy the game!
 
-Launch the game and start the mayhem.
+🛠 Why version 4.2.8?
+Many players prefer the 4.x series over the newer 5.x versions because:
 
-* GAMEPLAY MODES
-Quick Play: Jump into online 6-player battles.
+It retains the classic "Doodle Army" feel.
 
-Multiplayer: Local Wi-Fi or Bluetooth matches with friends.
+Better performance on older devices.
 
-Survival: Solo practice mode against AI robots.
+Traditional lobby and ranking system.
 
-* NOTES
-This version is intended for fans of the original game style.
+Less intrusive UI.
 
-If you have existing data from version 5.x, you may need to clear your app cache before installing this version to avoid conflicts.
+🤝 Contributing
+If you have suggestions for this repository or want to report an issue with the build, feel free to open an Issue or submit a Pull Request.
+
+📄 License
+This project is shared for educational and archival purposes. Please refer to the LICENSE file for more details.
+
+Disclaimer: This repository is for archival purposes. All rights belong to Appsomniacs LLC.
